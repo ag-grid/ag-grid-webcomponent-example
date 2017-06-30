@@ -164,9 +164,6 @@ function addDestroyListener() {
     btDestroyGrid.addEventListener('click', function () {
         gridOptions.api.destroy();
         btDestroyGrid.disabled = true;
-
-        const btRecreateGrid = document.querySelector('#btRecreateGrid');
-        btRecreateGrid.disabled = false;
     });
 }
 

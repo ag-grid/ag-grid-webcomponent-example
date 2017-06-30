@@ -23,6 +23,7 @@
   "dependencies": {
     "ag-grid": "^11.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.1",
-    "ag-grid-enterprise": "^11.0.0"
+    "ag-grid-enterprise": "^11.0.0",
+    "ag-grid-webcomponent": "*"
   }
 }
