@@ -19,6 +19,6 @@ const gridOptions = {
 };
 
 document.addEventListener("DOMContentLoaded", () => {
-    const myAgileGrid = document.querySelector('#myGrid');
-    myAgileGrid.gridOptions = gridOptions;
+    const myGrid = document.querySelector('#myGrid');
+    myGrid.gridOptions = gridOptions;
 });

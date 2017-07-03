@@ -468,7 +468,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // add events to grid option 3 - callback on the grid options
     gridOptions.onColumnResized = function (event) {
-        console.log('event via option 3: ' + event.agGridDetails);
+        console.log('event via option 3: ' + event);
     };
 
     addQuickFilterListener();
