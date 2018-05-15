@@ -21,9 +21,9 @@
     "tests"
   ],
   "dependencies": {
-    "ag-grid": "^11.0.0",
+    "ag-grid": "^17.1.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#1.0.1",
-    "ag-grid-enterprise": "^11.0.0",
-    "ag-grid-webcomponent": "11.0.0"
+    "ag-grid-enterprise": "^17.1.0",
+    "ag-grid-webcomponent": "17.1.0"
   }
 }

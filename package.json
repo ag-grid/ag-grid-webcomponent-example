@@ -1,6 +1,6 @@
 {
   "name": "ag-grid-webcomponent-example",
-  "version": "1.0.0",
+  "version": "17.1.0",
   "description": "ag-Grid Web Component Examples",
   "main": "index.js",
   "scripts": {
@@ -25,9 +25,9 @@
   "homepage": "https://github.com/ceolter/ag-grid-webcomponent-example#readme",
   "dependencies": {
     "@webcomponents/custom-elements": "1.0.0",
-    "ag-grid": "^11.0.0",
-    "ag-grid-enterprise": "^11.0.0",
-    "ag-grid-webcomponent": "11.0.0"
+    "ag-grid": "^17.1.0",
+    "ag-grid-enterprise": "^17.1.0",
+    "ag-grid-webcomponent": "17.1.0"
   },
   "devDependencies": {
     "lite-server": "2.3.0"
